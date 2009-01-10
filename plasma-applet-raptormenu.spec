@@ -1,5 +1,5 @@
 %define version  0.0.1.1
-%define release  %mkrel 0.%revision.1
+%define release  %mkrel 0.%revision.2
 %define revision 838452
 %define oname    raptormenu
 
