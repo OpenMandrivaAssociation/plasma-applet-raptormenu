@@ -9,7 +9,7 @@ Name:		 plasma-applet-%oname
 Version:	 %{version}
 Release:	 %{release}
 License:	 GPLv2+
-Url:		 http://www.raptor-menu.org
+Url:		 https://www.raptor-menu.org
 Epoch:       1
 Group:		 Graphical desktop/KDE
 Source0:	 %{oname}-%version.%git.tar.bz2
