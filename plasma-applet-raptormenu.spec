@@ -1,6 +1,6 @@
 %define version  0.0
 %define git git20090309
-%define release  %mkrel 0.%git.3
+%define release 1
 %define oname    raptor
 
 %define libnamedev %mklibname %{name} -d
